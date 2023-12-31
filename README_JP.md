@@ -36,3 +36,4 @@
 3. echo
 4. comments
 5. variables
+6. data types(null, boolean, number, string)
