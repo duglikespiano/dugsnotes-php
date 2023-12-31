@@ -34,3 +34,4 @@
 1. hello world!
 2. php tags
 3. echo
+4. comments
