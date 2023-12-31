@@ -35,3 +35,4 @@
 2. php tags
 3. echo
 4. comments
+5. variables
