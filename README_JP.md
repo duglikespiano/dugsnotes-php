@@ -38,3 +38,4 @@
 5. variables
 6. data types(null, boolean, number, string)
 7. array
+8. type
