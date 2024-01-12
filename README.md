@@ -41,3 +41,4 @@
 8. type
 9. operators
 10. expression
+11. function
