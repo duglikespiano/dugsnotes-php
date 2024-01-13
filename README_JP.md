@@ -43,3 +43,4 @@
 10. expression
 11. function
 12. type hinting
+13. short circuiting
