@@ -50,3 +50,4 @@
 17. conditions
 18. including php files
 19. more about function
+20. global variables
