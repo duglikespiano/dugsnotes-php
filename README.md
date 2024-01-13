@@ -47,3 +47,4 @@
 14. loop
 15. predefined constants
 16. rounding numbers
+17. conditions
