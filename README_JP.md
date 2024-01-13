@@ -44,3 +44,4 @@
 11. function
 12. type hinting
 13. short circuiting
+14. loop
