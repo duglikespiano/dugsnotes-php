@@ -53,3 +53,4 @@
 20. global variables
 21. anonymous function
 22. reference
+23. array functions
