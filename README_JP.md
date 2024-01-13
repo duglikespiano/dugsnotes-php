@@ -42,3 +42,4 @@
 9. operators
 10. expression
 11. function
+12. type hinting
