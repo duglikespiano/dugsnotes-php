@@ -56,3 +56,4 @@
 23. array functions
 24. working with files
 25. classes
+26. namespaces
