@@ -57,3 +57,4 @@
 24. working with files
 25. classes
 26. namespaces
+27. exceptions
