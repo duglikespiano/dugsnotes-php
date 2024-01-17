@@ -58,3 +58,4 @@
 25. classes
 26. namespaces
 27. exceptions
+28. try and catch
