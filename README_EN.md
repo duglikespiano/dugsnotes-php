@@ -15,7 +15,8 @@
 ### 1. Overview
 
 - Project title : dugsnotes_php
-- Related URL : https://www.udemy.com/course/complete-modern-php-developer
+- Related URL1 : https://www.udemy.com/course/complete-modern-php-developer
+- Related URL2 : https://www.udemy.com/course/php-from-scratch-course/
 - Period : Feb 01 2024 - In progress
 - Member(s) : Dug Park
 - Tech stack : </br>
@@ -60,3 +61,5 @@
 27. exceptions
 28. try and catch
 29. datetime class
+
+- reset

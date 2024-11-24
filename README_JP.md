@@ -15,7 +15,8 @@
 ### 1. 概要
 
 - Project タイトル : dugsnotes_php
-- 関連 URL : https://www.udemy.com/course/complete-modern-php-developer
+- 関連 URL1 : https://www.udemy.com/course/complete-modern-php-developer
+- 関連 URL2 : https://www.udemy.com/course/php-from-scratch-course/
 - 期間 : 2024.01.01 - 進行中
 - 人員 : 1 人
 - 技術スタック : </br>
@@ -60,3 +61,5 @@
 27. exceptions
 28. try and catch
 29. datetime class
+
+- reset

@@ -15,7 +15,8 @@
 ### 1. 개요
 
 - 프로젝트명 : dugsnotes_php
-- 관련URL : https://www.udemy.com/course/complete-modern-php-developer
+- 관련URL1 : https://www.udemy.com/course/complete-modern-php-developer
+- 관련URL2 : https://www.udemy.com/course/php-from-scratch-course/
 - 기간 : 2024.01.01 - 진행중
 - 인원 : 1인
 - 기술스택 : </br>
@@ -60,3 +61,5 @@
 27. exceptions
 28. try and catch
 29. datetime class
+
+- reset
