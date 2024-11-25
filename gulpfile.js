@@ -17,13 +17,9 @@ gulp.task('browserSync', function (done) {
 			});
 		}
 	);
-	browserSync.reload();
 	done();
 });
 
-gulp.task(
-	'default',
-	gulp.series(gulp.parallel('browserSync'), function (done) {
-		gulp.watch(['**/*.php']).on('change', browserSync.reload);
-	})
-);
+gulp.watch(['**/*.php']).on('change', browserSync.reload);
+
+gulp.task('default', gulp.series(gulp.parallel('browserSync')));
