@@ -63,3 +63,4 @@
 29. datetime class
 30. printing values
 31. comments
+32. variables
