@@ -66,3 +66,4 @@
 32. variables
 33. data types
 34. string concatenation
+35. type casting
