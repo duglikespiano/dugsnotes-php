@@ -64,3 +64,4 @@
 30. printing values
 31. comments
 32. variables
+33. data types
