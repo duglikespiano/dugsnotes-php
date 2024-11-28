@@ -67,3 +67,4 @@
 33. data types
 34. string concatenation
 35. type casting
+36. arithmetic operators
