@@ -68,3 +68,4 @@
 34. string concatenation
 35. type casting
 36. arithmetic operators
+37. string functions
