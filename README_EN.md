@@ -70,3 +70,4 @@
 36. arithmetic operators
 37. string functions
 38. date and times
+39. array
