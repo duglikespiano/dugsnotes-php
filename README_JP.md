@@ -71,3 +71,5 @@
 37. string functions
 38. date and times
 39. array
+40. array functions
+41. associative array
