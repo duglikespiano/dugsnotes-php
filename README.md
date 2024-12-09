@@ -79,3 +79,4 @@
 45. looping through arrays
 46. multi dimensional array iteration
 47. array challenge
+48. loop challenge
