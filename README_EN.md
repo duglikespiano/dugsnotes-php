@@ -80,3 +80,4 @@
 46. multi dimensional array iteration
 47. array challenge
 48. loop challenge
+49. $\_SERVER
