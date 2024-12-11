@@ -81,3 +81,4 @@
 47. array challenge
 48. loop challenge
 49. $\_SERVER
+50. $\_GLOBALS
