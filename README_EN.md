@@ -83,3 +83,4 @@
 49. $\_SERVER
 50. $\_GLOBALS
 51. $\_GET
+52. $\_POST
