@@ -86,3 +86,4 @@
 52. $\_POST
 53. $\_FILES
 54. alert challenge
+55. $\_SESSION
