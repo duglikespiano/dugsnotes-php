@@ -87,3 +87,4 @@
 53. $\_FILES
 54. alert challenge
 55. $\_SESSION
+56. $\_COOKIE
