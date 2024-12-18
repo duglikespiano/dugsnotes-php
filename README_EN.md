@@ -90,3 +90,4 @@
 56. $\_COOKIE
 57. if
 58. conditional html
+59. comparison and logical operators
