@@ -91,3 +91,4 @@
 57. if
 58. conditional html
 59. comparison and logical operators
+60. conditionals in loops
