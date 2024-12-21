@@ -101,3 +101,4 @@
 67. parameters and arguements
 68. scope
 69. constants
+70. type declarations
