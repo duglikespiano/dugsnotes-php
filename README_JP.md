@@ -100,3 +100,4 @@
 66. functions
 67. parameters and arguements
 68. scope
+69. constants
