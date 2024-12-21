@@ -97,3 +97,4 @@
 63. null coalescing operator
 64. fizzbuzz
 65. names challenge
+66. functions
