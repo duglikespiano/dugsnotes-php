@@ -104,3 +104,4 @@
 70. type declarations
 71. anonymous functions
 72. callback functions
+73. arrow functions
