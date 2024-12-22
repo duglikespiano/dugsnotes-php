@@ -102,3 +102,4 @@
 68. scope
 69. constants
 70. type declarations
+71. anonymous functions
