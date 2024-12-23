@@ -105,3 +105,4 @@
 71. anonymous functions
 72. callback functions
 73. arrow functions
+74. classes
