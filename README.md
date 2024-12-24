@@ -106,3 +106,4 @@
 72. callback functions
 73. arrow functions
 74. classes
+75. setter and getter
