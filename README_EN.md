@@ -108,3 +108,4 @@
 74. classes
 75. setter and getter
 76. inheritance
+77. static
