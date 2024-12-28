@@ -109,3 +109,4 @@
 75. setter and getter
 76. inheritance
 77. static
+78. abstract
