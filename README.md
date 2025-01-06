@@ -112,3 +112,4 @@
 78. abstract
 79. interfaces
 80. connect to pdo
+81. fetch multiple records
