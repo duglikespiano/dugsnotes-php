@@ -113,3 +113,4 @@
 79. interfaces
 80. connect to pdo
 81. fetch multiple records
+82. fetch a single record
