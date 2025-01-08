@@ -114,3 +114,4 @@
 80. connect to pdo
 81. fetch multiple records
 82. fetch a single record
+83. insert a record
