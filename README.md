@@ -116,3 +116,4 @@
 82. fetch a single record
 83. insert a record
 84. delete a record
+85. update a record
